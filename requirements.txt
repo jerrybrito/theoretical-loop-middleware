@@ -1,0 +1,2 @@
+# Requires: paradoxical-silence
+# (Not available on PyPI)
